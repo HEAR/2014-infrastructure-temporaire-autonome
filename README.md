@@ -16,3 +16,6 @@ Participants :
 - Arman Mothtadji
 - Léna Robin
 - Julie Robiolle
+
+
+https://lite5.framapad.org/p/infrastructure-temporaire-autonome
