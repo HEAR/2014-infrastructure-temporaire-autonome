@@ -1,7 +1,7 @@
 infrastructure temporaire autonome
 ==================================
 
-Dossier du workshop Hors Limites « Infrastructure Temporaire Autonome », initié par Arman Mohtadji et Anne Laforêt.
+Dossier du workshop Hors Limites « Infrastructure Temporaire Autonome », initié par Arman Mohtadji et Anne Laforet.
 
 Participants :
 - Thibault Arnoul
@@ -9,7 +9,7 @@ Participants :
 - Sheng Cao
 - Romain Goetz
 - Loïc Horellou
-- Anne Laforêt
+- Anne Laforet
 - Amalia Laurent
 - Sylvain Leal
 - Margaux Meissonnier
