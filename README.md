@@ -12,6 +12,7 @@ Participants :
 - Anne Laforet
 - Amalia Laurent
 - Sylvain Leal
+- Pauline Lecerf
 - Margaux Meissonnier
 - Arman Mothtadji
 - Léna Robin
