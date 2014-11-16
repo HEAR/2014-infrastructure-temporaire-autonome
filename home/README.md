@@ -19,6 +19,15 @@ La logique est la suivante :
 
 serveur IRC <-irc-> serveur nodeJS <-socket-> page client html + JS
 
+lancer le serveur (http://127.0.0.1:7076) :
+
+```bash
+DEBUG=myapp ./bin/www
+```
+
+ctrl + c pour l'arrêter
+
+
 ### www ###
 
 Code de la page d'accueil publique du projet
