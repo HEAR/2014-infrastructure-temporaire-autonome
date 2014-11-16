@@ -1,0 +1,1165 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"sear",
+				"search-page"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"carou",
+				"carousel-home"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"alert",
+				"alerte_tab_loc"
+			],
+			[
+				"text-",
+				"text-transform:   (property)"
+			],
+			[
+				"sequence",
+				"sequenceTimeline"
+			],
+			[
+				"array_",
+				"array_pop  (function)"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"seq",
+				"seqItemSelected"
+			],
+			[
+				"refre",
+				"refreshSequenceSlide"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"minut",
+				"pixOneMinute"
+			],
+			[
+				"word",
+				"word-wrap:   (property)"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"d",
+				"dblclick  (function)"
+			],
+			[
+				"slid",
+				"slide_info"
+			],
+			[
+				"ac",
+				"actionAfterClose"
+			],
+			[
+				"info",
+				"info_to_refresh"
+			],
+			[
+				"event",
+				"event_selector"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"slide",
+				"slide_item"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"r",
+				"retour  (variable)"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"webkit-background",
+				"-webkit-background-size:   (property)"
+			],
+			[
+				"ref",
+				"ref_target"
+			],
+			[
+				"ST",
+				"stdClass  (class)"
+			],
+			[
+				"_id",
+				"_id_archive_ecran"
+			],
+			[
+				"Get",
+				"GetSQLValueString"
+			],
+			[
+				"form",
+				"formulaire_content"
+			],
+			[
+				"dat",
+				"data_screens"
+			],
+			[
+				"id",
+				"id_groupe"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"p",
+				"param	@param"
+			],
+			[
+				"Sl",
+				"Slide"
+			],
+			[
+				"doc",
+				"doc_s	Function Signature"
+			],
+			[
+				"doc_",
+				"doc_d	Constant Definition"
+			],
+			[
+				"http",
+				"http_head"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"sim",
+				"simplepie-1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ITAirc/public/index.html",
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ITAirc/public/stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ITAirc/app.js",
+			"settings":
+			{
+				"buffer_size": 2154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html5	",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: stylesheet_link_tag"
+			],
+			[
+				"java",
+				"Snippet: javascript_include_tag"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"class",
+				"Snippet: Class Variable"
+			],
+			[
+				"clas",
+				"Snippet: Class"
+			],
+			[
+				"c++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"ht",
+				"Snippet: <?php $this->… ?>"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/home.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/nos_voyages.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/page.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/quisommesnous-service.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/search.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/service_groupe.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/single-voyage.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/taxonomy-type_voyage.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/style.css",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/404.php",
+		"/Users/loic/Sites/Site_ITS/wp-content/themes/its/category-biographies.php",
+		"/Users/loic/Sites/Site_AITRE/wp-content/themes/aitre/dupliquee.php",
+		"/Users/loic/Sites/Site_AITRE/themes/aitre/home.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/single-record.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/acf/fields.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/inc/bottom_navwalker.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/search.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/functions.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/archive.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/p-discographie.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/single-discographie.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/style.css",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/js/script.js",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/menu.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/footer.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/home.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/old-search.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/bootstrap-carousel.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/page.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/single.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/p-records.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/page-contact.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/header.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/single-records.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/css/editor-style.css",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/single-groupe.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/p-sounds.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/sidebar.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/p-bookings.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/searchform-nav.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/index.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/comments.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/searchform.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/inc/wp_bootstrap_navwalker.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/inc/carousel.php",
+		"/Users/loic/Sites/Site_YUPPY/wp-content/themes/yuppy/inc/bootstrap-walker.php",
+		"/Users/loic/Multisites/talm/wp-content/themes/talm/functions.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/slideshow.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/compte_a_rebours/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/default/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/evenements/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/sports/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/verbatim/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/video/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/admin-new/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/vars/config-sample.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/plasma-groupe-modif.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/evenements/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/evenements/structure.json",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/slideshow.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/vars/config.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/publish-group.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_slide.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-sequence-item.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_slideshow.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/verbatim/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/evenements/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/default/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/compte_a_rebours/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/sports/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/video/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/compte_a_rebours/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/video/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/video/structure.json",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/admin.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/admin-new/XMLrequest_get_event_data.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/admin-new/XMLrequest_get_event_list.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_SCANEVENT/scanevent/platforms/ios/www/js/index.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_SCANEVENT/scanevent/platforms/ios/www/test.html",
+		"/Users/loic/Sites/Site_SCIENCESPO_SCANEVENT/scanevent/platforms/ios/www/index.html",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/.gitignore",
+		"/Users/loic/Sites/Site_SCIENCESPO_NEWSLETTER/classe/classe_template.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_NEWSLETTER/template/newsletter_dsd_donateurs/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_NEWSLETTER/classe/classe_newsletter.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_ecran.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/slide-generate.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_fonctions.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/publish-screen.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/slide-select.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/vars/statics_vars.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/slide-modif.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/slide-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_spuser.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_meteo.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_simpleimage.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_playlist.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_organisme.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_etablissement.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_core.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_connexion.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/import_slide_json.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-timeline.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-timeline-slide.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-timeline-item.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-slide.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-slideshow.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/data-sequence.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/api-event.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/menu.php",
+		"/Users/loic/Library/Caches/Cleanup At Startup/Transmit/4AB6B1CB-9C9A-460E-A507-0258291BCF49/classe_api.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slideshow/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/event-image-download.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/_temp.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/vars/meteo_json.txt",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/plasma-select.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/etablissement-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/ecran-groupe-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/sciencespo.jquery.fancybox.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/timeline.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/ecran-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/plasma-modif.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/sports/structure.json",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"3000",
+			"em",
+			"<em>",
+			"<eme>",
+			"em",
+			"<em>",
+			"em",
+			"record",
+			"aucun",
+			"120",
+			"record",
+			"img",
+			"post_content",
+			"content",
+			"img",
+			"boots",
+			"records",
+			".record",
+			"record",
+			"header",
+			"active",
+			"h6",
+			"page-header",
+			"carousel",
+			"custom_taxonomies_terms_links",
+			"carousel",
+			"box",
+			"box-si",
+			"box",
+			"liste_records",
+			"said",
+			"col-sm-10",
+			"col-sm-2 ",
+			"the_tags",
+			"768",
+			"height:768px;",
+			"768",
+			"height:768px;",
+			"768",
+			"duree",
+			"tinymce",
+			"form",
+			"param",
+			"loadEventFromAPI",
+			"issetParam",
+			"event",
+			"coorganisateur",
+			"30*60",
+			"seqItemSelected",
+			"edit_item_sequence",
+			"item_sequence_editor",
+			"duree",
+			"1800",
+			"duree",
+			"1800",
+			"calc",
+			"box",
+			"calc",
+			"archive_ecran",
+			"evenement",
+			"update_sequence_item",
+			"data-sequence-item",
+			"coorganisateur",
+			"image-event",
+			"image",
+			"B",
+			"est_venu",
+			"addHours",
+			"moveHeader",
+			"duree_restante",
+			"duree",
+			"data_slide_ordered",
+			"data_slide_dates",
+			"refreshSequenceSlide",
+			"date",
+			"time",
+			"publis",
+			"exit",
+			".info",
+			"console",
+			"end",
+			"$end",
+			"$slide_id",
+			"edit_slide",
+			"jquery",
+			"edit_slide",
+			"get_slide_edit_liste",
+			"get_post_value",
+			"modif_ecran_info_form",
+			"session_detail",
+			"$template",
+			"slide_selector",
+			"suppr-item",
+			"cancel",
+			"suppr-item",
+			"duree",
+			"edit_from",
+			"edit_slide",
+			"();",
+			"edit_slide",
+			"addSecon",
+			"meteo",
+			"generate_slide_page",
+			"publish",
+			"slide_selector",
+			"$id_groupe",
+			"user_level",
+			"placeholder",
+			"addScreen",
+			"myTimeline",
+			"dateTimeline",
+			".ecrans-liens",
+			"slide_preview",
+			"slide_preview();",
+			"slide_preview",
+			"actionAfterClose",
+			"slide_preview",
+			"recursif",
+			"data_event",
+			"info_to_refresh",
+			"ich",
+			"complete_name",
+			"preview_media",
+			"select",
+			"tab",
+			"screen_reference",
+			"screen_refere",
+			"edit_slide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data-timeline-item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ITAirc/public/index.html",
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ITAirc/public/stylesheets/style.css",
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ITAirc/app.js",
+					"settings":
+					{
+						"buffer_size": 2154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"functions.php"
+			],
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/loic/Sites/Site_SCIENCESPO_RSS/sp-rss.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

@@ -4,6 +4,7 @@ infrastructure temporaire autonome
 Dossier du workshop Hors Limites « Infrastructure Temporaire Autonome », initié par Arman Mohtadji et Anne Laforet.
 
 Participants :
+
 - Thibault Arnoul
 - Chloé Arnoux
 - Sheng Cao
@@ -20,3 +21,5 @@ Participants :
 
 
 https://lite5.framapad.org/p/infrastructure-temporaire-autonome
+
+http://infrastructure-temporaire-autonome.hear.fr
