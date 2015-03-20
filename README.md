@@ -19,7 +19,10 @@ Participants (du 12 au 14 novembre 2014) :
 - Léna Robin
 - Julie Robiolle
 
+Il est prévu que le projet « Infrastructure Temporaire Autonome » soit poursuivi par les étudiants du « Club informatique » de la HEAR (créé le 19 mars 2015).
 
 https://lite5.framapad.org/p/infrastructure-temporaire-autonome
 
 http://infrastructure-temporaire-autonome.hear.fr
+
+https://lite6.framapad.org/p/clubinformatique
